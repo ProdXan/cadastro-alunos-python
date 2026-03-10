@@ -1,5 +1,5 @@
 # cadastro-alunos-python
-# Relatório do Projeto – Sistema de Cadastro de Alunos em Python
+# Sistema de Cadastro de Alunos em Python
 
  1 Introdução
 
